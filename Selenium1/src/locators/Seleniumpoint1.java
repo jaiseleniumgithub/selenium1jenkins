@@ -13,9 +13,5 @@ public class Seleniumpoint1 {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://seleniumpoint.com");
 		System.out.println("website loaded successfully");
-		/*driver.findElement(By.id("name")).sendKeysss("name1");
-		driver.findElement(By.name("umobile")).sendKeys("12345");
-	
-		*/
-	}		
+			}		
 	}
