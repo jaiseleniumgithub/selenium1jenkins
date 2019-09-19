@@ -16,6 +16,6 @@ public class Seleniumpoint1 {
 		/*driver.findElement(By.id("name")).sendKeys("name1");
 		driver.findElement(By.name("umobile")).sendKeys("12345");
 		driver.findElement(By.linkText("terms")).click();
-		*///driver.findElement(By.id("name")).sendKeys("name1");
+		*/
 	}		
 	}
